@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Laravel, Java Android**
 
-- 📝 I regularly write articles on [Technologysera!](technologysera.blogspot.com)
+- 📝 I regularly write articles on [Technologysera!](https://technologysera.blogspot.com/)
 
 - 💬 Ask me about anything here! I am happy to help
 
