@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [Technologysera!](technologysera.blogspot.com)
 
-- 💬 Ask me about anything here! I am happy to help**
+- 💬 Ask me about anything here! I am happy to help
 
 - 📫 How to reach me **marcoantoniomadgaskar@gmail.com**
 
