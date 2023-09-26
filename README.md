@@ -4,7 +4,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mrcantnio_/)
 
 <h4 align="left">a passionate Web Developer from Indonesia</h4>
-<br>
 
 ### Glad to see you here! 
 
