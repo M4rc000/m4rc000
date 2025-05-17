@@ -11,7 +11,7 @@
 <li>📝 Saya rutin menulis artikel di <a href="https://technologysera.blogspot.com/">Technologysera!</a></li>
 <li>💬 Jangan ragu untuk bertanya apa saja! Saya senang membantu</li>
 <li>📫 Anda dapat menghubungi saya melalui <b>marcoantoniomadgaskar@gmail.com</b></li>
-<li>📄 Lihat <a href="https://raw.githubusercontent.com/M4rc000/Portfolio/913caac987969a9a1318483ebb4f5df3ab03e4cd/assets/docs/CV.pdf">CV saya!</a></li>
+<li>📄 Lihat <a href="https://raw.githubusercontent.com/M4rc000/Portfolio/main/src/doc/CV.pdf">CV saya!</a></li>
 <li>⚡ Fakta menarik:<br>**Saya adalah individu yang fleksibel, pekerja keras, bertanggung jawab, dan jujur. Saya dapat bekerja dengan baik dalam lingkungan tim atau menggunakan inisiatif sendiri. Saya terbiasa mendengarkan secara efektif saat memecahkan masalah. Dan selalu antusias untuk belajar dan menerima tantangan baru.**</li>
 </ul>
 <h3 align="left">Bahasa dan Alat:</h3>
