@@ -4,17 +4,16 @@
 <a href="https://m4rc000.github.io/Portfolio/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website Badge" /></a>
 <a href="https://www.instagram.com/mrcantnio_/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge" /></a>
 </p>
-<h4 align="left">Seorang Web Developer yang penuh semangat dari Indonesia</h4>
-<h3>Senang bertemu Anda di sini! 👋</h3>
+<h4 align="left">Software Developer from Indonesia</h4>
+<h3>Glad to see you here! 👋</h3>
 <ul>
-<li>🌱 Saya saat ini sedang mempelajari <b>Laravel, Java Android</b></li>
-<li>📝 Saya rutin menulis artikel di <a href="https://technologysera.blogspot.com/">Technologysera!</a></li>
-<li>💬 Jangan ragu untuk bertanya apa saja! Saya senang membantu</li>
-<li>📫 Anda dapat menghubungi saya melalui <b>marcoantoniomadgaskar@gmail.com</b></li>
+<li>🌱 I’m currently learning <b>Laravel, Java Android, Flutter</b></li>
+<li>📝 I regularly write articles on <a href="https://technologysera.blogspot.com/">Technologysera!</a></li>
+<li>💬 Ask me about anything here! I am happy to help</li>
+<li>📫 How to reach me <b>marcoantoniomadgaskar@gmail.com</b></li>
 <li>📄 Lihat <a href="https://raw.githubusercontent.com/M4rc000/Portfolio/main/src/doc/CV.pdf">CV saya!</a></li>
-<li>⚡ Fakta menarik:<br>**Saya adalah individu yang fleksibel, pekerja keras, bertanggung jawab, dan jujur. Saya dapat bekerja dengan baik dalam lingkungan tim atau menggunakan inisiatif sendiri. Saya terbiasa mendengarkan secara efektif saat memecahkan masalah. Dan selalu antusias untuk belajar dan menerima tantangan baru.**</li>
 </ul>
-<h3 align="left">Bahasa dan Alat:</h3>
+<h3 align="left">Language and Tools:</h3>
 <p align="left">
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -40,13 +39,13 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 <details>
-<summary><b>⚡ Statistik Github</b></summary>
+<summary><b>⚡ Github Stats</b></summary>
 <br />
 <p align="left"><a href="https://github.com/M4rc000/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rc000" alt="Top Langs"></a></p>
 <p align="left"><a href="https://github.com/M4rc000/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=m4rc000&show_icons=true&locale=en" alt="Stats"></a></p>
 <p align="left"><a href="https://github.com/M4rc000/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rc000" alt="Streak"></a></p>
 </details>
-<h3 align="left">Dukungan ❤️</h3>
+<h3 align="left">Support ❤️</h3>
 <p><a href="https://www.buymeacoffee.com/mrcantnio"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/mrcantnio" /></a></p><br><br>
 <div align="center">
 <h3>Show me some ❤️ with staring some of repository! ⭐</h3>
