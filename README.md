@@ -32,14 +32,14 @@
     <span href="https://go.dev/" target="_blank" rel="noreferrer"><img src="./logo/go.svg" alt="Golang" title="Golang" width="40" height="35" style="text-decoration: none"/> </span>
 </p>
 <p class="latols" align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="./logo/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" height="34" style="text-decoration: none"/> </a>
-    <a href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="./logo/materialize.svg" alt="Materialize" title="Materialize" width="44" height="40" style="text-decoration: none"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./logo/tailwind.svg" alt="Tailwind" title="Tailwind" width="45" height="43" style="text-decoration: none"/> </a>
-    <a href="https://codeigniter.com" target="_blank" rel="noreferrer"><img src="./logo/codeigniter.svg" alt="Codeigniter" title="Codeigniter" width="39" height="36" style="text-decoration: none"/> </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="./logo/laravel.svg" alt="Laravel" title="Laravel" width="40" height="34" style="text-decoration: none"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="./logo/nodejs.svg" alt="NodeJS" title="NodeJS" width="47" height="43" style="text-decoration: none"/> </a>
-    <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="./logo/flask.svg" alt="Flask" title="Flask" width="45" height="40" style="text-decoration: none"/> </a>
-    <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="./logo/django.svg" alt="Django" title="Django" width="47" height="43" style="text-decoration: none"/> </a>
+    <span href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="./logo/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" height="34" style="text-decoration: none"/> </span>
+    <span href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="./logo/materialize.svg" alt="Materialize" title="Materialize" width="44" height="40" style="text-decoration: none"/> </span>
+    <span href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./logo/tailwind.svg" alt="Tailwind" title="Tailwind" width="45" height="43" style="text-decoration: none"/> </span>
+    <span href="https://codeigniter.com" target="_blank" rel="noreferrer"><img src="./logo/codeigniter.svg" alt="Codeigniter" title="Codeigniter" width="39" height="36" style="text-decoration: none"/> </span>
+    <span href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="./logo/laravel.svg" alt="Laravel" title="Laravel" width="40" height="34" style="text-decoration: none"/> </span>
+    <span href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="./logo/nodejs.svg" alt="NodeJS" title="NodeJS" width="47" height="43" style="text-decoration: none"/> </span>
+    <span href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="./logo/flask.svg" alt="Flask" title="Flask" width="45" height="40" style="text-decoration: none"/> </span>
+    <span href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="./logo/django.svg" alt="Django" title="Django" width="47" height="43" style="text-decoration: none"/> </span>
 </p>
 
 <!-- Database -->
@@ -47,7 +47,7 @@
     <span href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="./logo/mysql.svg" alt="MySQL" title="MySQL" width="55" height="50" style="text-decoration: none"/> </span>
     <span href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="./logo/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="35" height="40" style="text-decoration: none"/> </span>
     <span href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="./logo/mongodb.svg" alt="MongoDB" title="MongoDB" width="35" height="40" style="text-decoration: none"/> </span>
-    <span href="https://redis.io" target="_blank" rel="noreferrer"><img src="./logo/redis.svg" alt="Redis" title="Redis" width="35" height="40" style="text-decoration: none"/> </span>
+    <span href="https://redis.io" target="_blank" rel="noreferrer"><img src="./logo/redis.svg" alt="Redis" title="Redis" width="35" height="40" style="text-decoration: none; margin-left: 4px"/> </span>
 </p>
 
 <!-- Tools -->
